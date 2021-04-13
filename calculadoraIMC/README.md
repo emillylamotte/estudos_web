@@ -13,5 +13,6 @@ A Calculadora recebe o peso e a altura do usuário e retorno seu IMC. Além diss
  <br>Verificação de Campos Preechidos
   </p>
   
- ✔️Por Emilly Lamotte em Abril/2021.
+  <br>
+  ✔️Por Emilly Lamotte em Abril/2021.
 
