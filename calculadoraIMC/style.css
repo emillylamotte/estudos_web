@@ -1,0 +1,52 @@
+.container{
+    background: linear-gradient(80deg,#40916c,#2d6a4f);
+    font-family: "Roboto";
+ }
+section{
+    margin-top:100px;
+    background-color:white;
+    padding:50px;
+    max-width:500px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right:auto;
+    display: block;
+    border-radius:5px;
+    box-shadow:5px 5px 50px 8px rgba(0,0,0,0.59); 
+}
+section h1{
+    font-size:25px;
+    text-align:center;
+  }
+section h2{
+    font-size:20px;
+    text-align:center;
+    justify-content: center;
+}
+  button{
+    margin-top: 1rem;
+    padding: 0.4rem;
+    background: linear-gradient(to left,#40916c,#2d6a4f);
+    cursor: pointer;
+    color:white;
+    font-size: 0.9rem;
+    font-weight: 300;
+    border-radius: 4px;
+       
+}
+.footer{
+    color: white;
+    margin-top: 270px;
+    margin-inline-start: 40%;
+    font-family: 'Roboto';
+    
+}
+.caixa{
+   margin-top: 10px;
+   padding-bottom: 0.4rem;
+   align-content: center;
+}
+label{
+    font-family: 'Roboto';
+    font-weight:bold;
+}
