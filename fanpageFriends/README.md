@@ -53,6 +53,14 @@ Essa seção contém uma seleção de fotos dos personagens. A visualização de
   <img src="https://user-images.githubusercontent.com/79487290/114641375-6356be00-9ca8-11eb-984a-a8aa27d61dfc.PNG" width="600"/>
 <br>Seção "Galery"
 </p>
+<h3 align="justify">Visualização total</h3> 
+<br>
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/79487290/114643610-6358bd00-9cac-11eb-9e11-2e0ecc66ed05.png" width="400"/>
+<br>Seção Fan Page v1
+</p>
+
+
 </p>
 <br>
 
