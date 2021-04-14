@@ -5,7 +5,7 @@ O projeto em desenvolvimento é uma fan page (inicialmente estática) da série 
  - Estilização com CSS (sombras e animações simples);
  - Estrutura de website com HTML;
  - Utilização e personalização de scrollbars, utilizando o -webkit-scrollbar;
- <br>
+ 
   <h3>Melhorias em desenvolvimento:</h3>
  
  - Responsividade;
@@ -15,6 +15,7 @@ O projeto em desenvolvimento é uma fan page (inicialmente estática) da série 
  <h3> Sobre a página</h3>
  A fan page conta, inicialmente, com 4 seções: "About", "Cast and Characteres", "Best Episodes" and "Galery".<br>
  </p>
+ <br>
  <h3 align="center">Cabeçalho e Seção "About"</h3> 
  Essa seção contém um cabeçalho com os tópicos presentes na página, além de conter as principais informações sobre a série, como sua produção e quantidade de episódios.<br>
 
