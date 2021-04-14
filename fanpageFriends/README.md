@@ -18,7 +18,7 @@ O projeto em desenvolvimento é uma fan page (inicialmente estática) da série 
  <br>
  <h3 align="center">Cabeçalho e Seção "About"</h3> 
  Essa seção contém um cabeçalho com os tópicos presentes na página, além de conter as principais informações sobre a série, como sua produção e quantidade de episódios.<br>
-
+<br>
 <p align="center"> 
  
 <img src="https://user-images.githubusercontent.com/79487290/114640660-f5f65d80-9ca6-11eb-8c03-f1f02d7f5f6c.PNG" width="600"/>
