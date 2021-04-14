@@ -11,57 +11,29 @@ O projeto em desenvolvimento é uma fan page (inicialmente estática) da série 
  - Responsividade;
  - Cabeçalho fixo;
  - Atalhos do home que rolam a página até a seção desejada;
- 
- <h3> Sobre a página</h3>
- A fan page conta, inicialmente, com 4 seções: "About", "Cast and Characteres", "Best Episodes" and "Galery".<br>
  </p>
- <br>
- <h3 align="center">Cabeçalho e Seção "About"</h3> 
- Essa seção contém um cabeçalho com os tópicos presentes na página, além de conter as principais informações sobre a série, como sua produção e quantidade de episódios.<br>
-<br>
-<p align="center"> 
- 
-<img src="https://user-images.githubusercontent.com/79487290/114640660-f5f65d80-9ca6-11eb-8c03-f1f02d7f5f6c.PNG" width="600"/>
- <br>Cabeçalho e Seção About
-  </p>
-  <br>
-<h3 align="center">Seção "Cast and Characters"</h3> 
+ <h3> Sobre a página</h3>
 <p align="justify">
-Essa seção contém uma foto de cada personagem da série, assim como o nome do ator que o interpreta. A visualização de todo conteúdo é feita a partir de uma scrollbar personalizada. Além disso, ao clicar na imagem a página é redirecionada para o perfil do ator.<br>
-</p>
-<p align="center"> 
-  <img src="https://user-images.githubusercontent.com/79487290/114640903-6604e380-9ca7-11eb-8251-8da3a1fd4571.PNG" width="600"/>
-<br>Seção "Cast and Characters"
-</p>
-<br>
+A fan page foi desenvolvida em 2 temas: O tema  da **versão 1** é totalmente baseado nas cores que remetem a série (tons de roxo e amarelo). Já o tema da versão 2 tem objetivo de conter um visual mais limpo, mas sem deixar de remeter a série (preto com pequenos detalhes em amarelo). As duas versões possuem os mesmos elementos estruturais: Contam, inicialmente, com 4 seções: "About", "Cast and Characteres", "Best Episodes" and "Galery".<br>
+ A seção "Cabeçalho e rodapé" contém um cabeçalho com os tópicos presentes na página, além de conter as principais informações sobre a série, como sua produção e quantidade de episódios.<br>
+ A seção "Cast and Characters" contém uma foto de cada personagem da série, assim como o nome do ator que o interpreta. A visualização de todo conteúdo é feita a partir de uma scrollbar personalizada. Além disso, ao clicar na imagem a página é redirecionada para o perfil do ator.<br>
+ A seção "Best Episodes" contém uma seleção de episódios que marcaram a série, mostrando o nome e uma foto do episódio. A visualização de todo conteúdo é feita a partir de uma scrollbar personalizada.<br>
+A seção "Galery" contém uma seleção de fotos dos personagens. A visualização de todo conteúdo é feita a partir de uma scrollbar personalizada.<br>
 
-<h3 align="center">Seção "Best Episodes"</h3> 
-<p align="justify">
-Essa seção contém uma seleção de episódios que marcaram a série, mostrando o nome e uma foto do episódio. A visualização de todo conteúdo é feita a partir de uma scrollbar personalizada.<br>
-</p>
-<p align="center"> 
-  <img src="https://user-images.githubusercontent.com/79487290/114641153-f3e0ce80-9ca7-11eb-9456-86e2c813cd83.PNG" width="600"/>
-<br>Seção "Best Episodes"
-</p>
-<br>
 
-<h3 align="center">Seção "Galery"</h3> 
-<p align="justify">
-Essa seção contém uma seleção de fotos dos personagens. A visualização de todo conteúdo é feita a partir de uma scrollbar personalizada.<br>
-</p>
-<p align="center"> 
-  <img src="https://user-images.githubusercontent.com/79487290/114641375-6356be00-9ca8-11eb-984a-a8aa27d61dfc.PNG" width="600"/>
-<br>Seção "Galery"
-</p>
-<h3 align="justify">Visualização total</h3> 
+<h3 align="justify">Resultado das duas versões</h3> 
 <br>
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/79487290/114643610-6358bd00-9cac-11eb-9e11-2e0ecc66ed05.png" width="400"/>
 <br>Seção Fan Page v1
 </p>
 
-
+<br>
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/79487290/114756124-cdb34100-9d30-11eb-9685-386f9737b207.png" width="400"/>
+<br>Seção Fan Page v2
 </p>
+
 <br>
 
   
