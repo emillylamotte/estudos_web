@@ -10,8 +10,8 @@
   <h3>Melhorias em desenvolvimento:</h3>
  
  - Responsividade;
- - Cabeçalho fixo;
- - Atalhos do home que rolam a página até a seção desejada;
+ - Cabeçalho fixo; (já ajustado)
+ - Atalhos do home que rolam a página até a seção desejada;(realizando ajustes)
  </p>
  <h3> Sobre a página</h3>
 <p align="justify">
