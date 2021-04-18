@@ -18,7 +18,7 @@
     As duas versões possuem os mesmos elementos estruturais: Contam, inicialmente, com 5 seções: "About", "Cast and Characteres", "Best Episodes", "Galery" e "Extras". O cabeçalho é fixo durante a rolagem e contém botões com os tópicos presentes na página, cada botão rola a página até a seção desejada. O botão de alternância entre dark mode/light mode também se encontra no cabeçalho. A seção "About" contém as principais informações sobre a série, como sua produção e quantidade de episódios e um vídeo-player com a abertura oficial da série. A seção "Cast and Characters" contém uma foto de cada personagem, assim como o nome do ator que o interpreta. A visualização de todo conteúdo é feita a partir de uma scrollbar personalizada. Além disso, ao clicar na imagem a página é redirecionada para o perfil do ator. A seção "Best Episodes" contém uma seleção de episódios que marcaram a série, mostrando o nome e uma foto do episódio. A visualização de todo conteúdo é feita a partir de uma scrollbar personalizada. A seção "Galery" contém uma seleção de fotos dos personagens. A visualização de todo conteúdo é feita a partir de uma scrollbar personalizada. A seção "Extras" (acesse o arquivo "index.html" para visualizar) contém uma seleção de vídeos com curiosidades sobre a série, entrevistas com o elenco, entre outros. A visualização de todo conteúdo é feita a partir de uma scrollbar personalizada.<br>
 </p>
 
-<h3 align="justify">Resultado parcial (light mode / dark mode)</h3> 
+<h3 align="justify">Resultado (light mode / dark mode)</h3> 
 <br>
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/79487290/115165450-52c98d80-a084-11eb-90d3-9e3e2cd0a182.PNG" width="500"/>
