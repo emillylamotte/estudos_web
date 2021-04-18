@@ -15,11 +15,11 @@ function extras(){
 }
 var state = 0;
 function colorchange(){
-   
     if (state == 0){
-   
     document.getElementById("header").style.backgroundColor = "#000000";
+    document.getElementById("dark-mode-button").style.backgroundColor = "#000000";
     document.getElementById("footer").style.backgroundColor = "#000000";
+    document.getElementById("line").style.backgroundColor = "#909090";
     document.getElementById("s1").style.backgroundColor = "#000000";
     document.getElementById("container").style.backgroundColor = "#000000";
     document.getElementById("button-home").style.backgroundColor = "#000000";
@@ -29,12 +29,14 @@ function colorchange(){
     document.getElementById("button-home5").style.backgroundColor = "#000000";
     document.getElementById("button-home6").style.backgroundColor = "#000000"; 
     state = 1;
-    const labelButton = document.getElementById('button-home6');
-    labelButton.innerHTML = 'Dark Mode On'
+    var btnDark = document.getElementById('button-home6')
+    btnDark.innerHTML=  '<i class="far fa-sun"></i>' 
     }
     else{
     document.getElementById("header").style.backgroundColor = "#993399";
+    document.getElementById("dark-mode-button").style.backgroundColor = "#993399";
     document.getElementById("footer").style.backgroundColor = "#ca45ca";
+    document.getElementById("line").style.backgroundColor = "#ffffff";
     document.getElementById("s1").style.backgroundColor = "#ca45ca";
     document.getElementById("container").style.backgroundColor = "#ca45ca";
     document.getElementById("button-home").style.backgroundColor = "#993399";
@@ -44,7 +46,8 @@ function colorchange(){
     document.getElementById("button-home5").style.backgroundColor = "#993399";
     document.getElementById("button-home6").style.backgroundColor = "#993399"; 
     state = 0;
-    const labelButton = document.getElementById('button-home6');
-    labelButton.innerHTML = 'Dark Mode Off'
+    var btnDark = document.getElementById('button-home6')
+    btnDark.innerHTML=  '<i class="far fa-moon"></i> ' 
     }
 }
+
