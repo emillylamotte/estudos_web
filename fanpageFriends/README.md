@@ -21,20 +21,20 @@
 <h3 align="justify">Resultado parcial (light mode)</h3> 
 <br>
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/79487290/115132162-235b4800-9fd4-11eb-87d5-34a86315a27d.PNG" width="300"/>
+  <img src="https://user-images.githubusercontent.com/79487290/115132162-235b4800-9fd4-11eb-87d5-34a86315a27d.PNG" width="500"/>
 </p>
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/79487290/115132169-379f4500-9fd4-11eb-8682-39cc59ca70ba.PNG" width="300"/>
+  <img src="https://user-images.githubusercontent.com/79487290/115132169-379f4500-9fd4-11eb-8682-39cc59ca70ba.PNG" width="500"/>
 </p>
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/79487290/115132209-5ef61200-9fd4-11eb-8a19-b32074ee7d6b.PNG" width="300"/>
+  <img src="https://user-images.githubusercontent.com/79487290/115132209-5ef61200-9fd4-11eb-8a19-b32074ee7d6b.PNG" width="500"/>
 </p>
 
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/79487290/115132221-7503d280-9fd4-11eb-959b-3e5357f4bb49.PNG" width="300"/>
+  <img src="https://user-images.githubusercontent.com/79487290/115132221-7503d280-9fd4-11eb-959b-3e5357f4bb49.PNG" width="500"/>
 </p>
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/79487290/115132235-8f3db080-9fd4-11eb-9c32-e2680fdaafe7.PNG" width="300"/>
+  <img src="https://user-images.githubusercontent.com/79487290/115132235-8f3db080-9fd4-11eb-9c32-e2680fdaafe7.PNG" width="500"/>
 </p>
 
 
